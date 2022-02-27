@@ -1,0 +1,10 @@
+.idea
+subs
+1080
+720
+audio
+dashole
+pywidevine
+__pycache__/
+client_key.json
+.env
